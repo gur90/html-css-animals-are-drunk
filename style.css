@@ -1,0 +1,60 @@
+html{
+    margin: 0 auto;
+
+}
+body{
+    width: auto;
+    background-color: antiquewhite;
+}
+.headline{
+    margin-right: 100px;
+    color: blueviolet;
+    text-align: center;
+}
+.subheader{
+    border: 2px solid blueviolet;
+    width: 250px;
+    margin: 0 auto;
+}
+#panda{
+    width: 300px;
+    margin: auto;
+
+}
+.intro{
+    font-size: x-large;
+    font-style: italic;
+    background-color: aqua;
+}
+.main-text{
+    width: 300px;
+    border: 2px solid;
+    border-color: black;
+    background-color: green;
+}
+#text-more{
+    width: 300px;
+    border: 2px solid;
+    border-color: black;
+    margin-left: 200px;
+    background-color: yellow;
+}
+.bald-idea{
+    width: 300px;
+    border: 2px solid;
+    border-color: black;
+    margin-left: 200px;
+    background-color: yellow;
+}
+p{
+    font-style: oblique;
+    color: rgb(76, 191, 152);
+}
+div{
+    border-radius: 3px;
+    border: 2px solid red;
+}
+#text{
+    color:blue;
+    
+}
